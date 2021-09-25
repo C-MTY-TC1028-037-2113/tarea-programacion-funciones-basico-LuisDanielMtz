@@ -1,4 +1,11 @@
 # Escribe aquí tus funciones...
+def area(base,altura):
+    #resolver problema 
+    return base*altura
+
+def volumen_prisma(base,altura,profundidad):
+      return  area (base, profundidad)*altura 
+                             
 
 def main():
     #escribe tu código abajo de esta línea
