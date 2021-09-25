@@ -14,7 +14,7 @@ input_values = [
     ),
     (
         ["45.3","92.7","10.32"],
-        ["Dame la base: ","Dame la altura: ","Dame la profundidad: ","El volumen del prisma es: 43336.879199999996"],
+        ["Dame la base: ","Dame la altura: ","Dame la profundidad: ","El volumen del prisma es: 43336.8792"],
         " -->b) Revisa los tipos de dato de tus variables. Revisa las operaciones. No olvides que estamos trabajando con funciones."
     )
 ]
